@@ -33,7 +33,7 @@
 3. Place unzipped files in your USB drive. Tip: You may place [Apps installation Script](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS) on the same USB so that the installation takes place right after Firmware is flashed. 
 4. Start the car engine and plug in the USB drive.
 5. Go to Settings > Vehicle > System > About. For Flagship/Premium, long tap on the "System Settings" icon. For Standard/Exec, long tap on "Mac address". (I'm not certain about Std/Exec variant, let me know if long tap "MAC address" not working)
-6. Keyboard now pops up. Enter engineering mode code. ([Code mentioned in this LYN post](https://forum.lowyat.net/index.php?showtopic=4997599&view=findpost&p=106358874); I can't post the code here 😥 )
+6. Keyboard now pops up. Enter engineering mode code. Code: `dy5391` ([Code mentioned in this LYN post](https://forum.lowyat.net/index.php?showtopic=4997599&view=findpost&p=106358874))
 7. Tap "SOC升级". If everything works, you should see a similar screen as below.
   
   ![image](https://user-images.githubusercontent.com/17538895/231667654-104b03aa-1b35-4aaa-8307-b939205f6a76.png)
